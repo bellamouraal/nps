@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Executivo - Avaliação Talks",
+  "description": "Dashboard executivo de página única para análise e comparação de NPS e satisfação do conteúdo dos talks por empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
